@@ -1,0 +1,4 @@
+  {
+  "SomeInterface": "OtherImpl",
+  "SomeOtherInterface": "SODoer"
+}
